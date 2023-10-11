@@ -1,0 +1,3 @@
+﻿  vj1nikper.c
+c:\users\student\desktop\nikolic_perkovic\strukturepodataka\vj1nikper\vj1nikper\vj1nikper.c(27): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  vj1nikper.vcxproj -> C:\Users\student\Desktop\nikolic_perkovic\StrukturePodataka\vj1nikper\x64\Debug\vj1nikper.exe
