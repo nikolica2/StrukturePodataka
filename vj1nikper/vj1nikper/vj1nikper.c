@@ -36,6 +36,8 @@ int main()
 		showStudents(noRows, students);
 
 		free(students);
+
+		printf("mijica");
 	}
 
 	return 0;
