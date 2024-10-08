@@ -37,7 +37,7 @@ int main()
 
 		free(students);
 
-		printf("mijica");
+		printf("mijicaaaaa");
 	}
 
 	return 0;
